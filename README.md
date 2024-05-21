@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to My GitHub Profile! 🎉
+# Welcome to My GitHub Profile! <img src="https://github.com/B1N4RY-P4R45173/B1N4RY-P4R45173/blob/main/party-popper-joypixels.gif" width="45px">
 
-Hey there! 👋 I'm thrilled to have you here. Let's dive into what makes me tick!
+Hey there! <img src="https://github.com/B1N4RY-P4R45173/B1N4RY-P4R45173/blob/main/giphy.gif" width = '18px'> I'm thrilled to have you here. Let's dive into what makes me tick!
 
 ## About Me
 
