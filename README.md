@@ -57,6 +57,14 @@ Check out my coding stats and contributions powered by WakaTime:
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech! ✉️
 
 ---
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/B1N4RY-P4R45173/count.svg" alt=""/></td>
+  </tr>
+</table>
+
+![](https://img.shields.io/github/followers/B1N4RY-P4R45173?label=Github%20followers&style=for-the-badge) 
 
 Thanks for stopping by! Make sure to follow me for updates on my latest projects. 🌟
 
