@@ -66,5 +66,8 @@ Feel free to explore my repositories, and don't hesitate to reach out if you wan
 
 ![](https://img.shields.io/github/followers/B1N4RY-P4R45173?label=Github%20followers&style=for-the-badge) 
 
+
+[![An image of @b1n4ryp4r45173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/b1n4ryp4r45173)](https://holopin.io/@b1n4ryp4r45173)
+
 Thanks for stopping by! Make sure to follow me for updates on my latest projects. 🌟
 
