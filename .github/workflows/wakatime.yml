@@ -1,22 +1,16 @@
 name: Work Stats Readme
 
 on:
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
   schedule:
-    # Runs every 5 minutes
-    - cron: "*/5 * * * *"
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Update Wakatime stats in README
-        uses: wakatime/action@v1  # Using an alternative stable version
+      - uses: athul/waka-readme@master 
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          readme_file: "README.md"
-          wakatime_api_key: ${{ secrets.WAKATIME_API }}  # Ensure you have the correct secret
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
