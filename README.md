@@ -51,7 +51,8 @@ When I'm not cracking codes or writing scripts, you can find me:
 
 ## 🔥 GitHub Stats
 Check out my coding stats and contributions powered by WakaTime:
-![My WakaTime Stats](https://waka-api.herokuapp.com/username)
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Let's Connect!
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech! ✉️
