@@ -15,8 +15,8 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Wakatime stats in README
-        uses: wakatime/action@v3
+        uses: wakatime/action@v1  # Using an alternative stable version
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          readme_file: "README.md"  
-          wakatime_api_key: ${{ secrets.WAKATIME_API }}  
+          readme_file: "README.md"
+          wakatime_api_key: ${{ secrets.WAKATIME_API }}  # Ensure you have the correct secret
