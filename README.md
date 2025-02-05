@@ -54,7 +54,9 @@ Check out my coding stats and contributions powered by WakaTime:
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java    1 hr 39 mins    ███████████████████████▓░   94.48 %
+JSON    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
