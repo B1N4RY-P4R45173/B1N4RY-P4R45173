@@ -54,11 +54,11 @@ Check out my coding stats and contributions powered by WakaTime:
  <!--START_SECTION:waka-->
 
 ```txt
-Python        3 hrs 53 mins   ████████████▓░░░░░░░░░░░░   50.65 %
-Java          2 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 %
-C             42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-HTML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Makefile      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python   3 hrs 53 mins   ███████████████████▓░░░░░   78.01 %
+Java     30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+C        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+HTML     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
