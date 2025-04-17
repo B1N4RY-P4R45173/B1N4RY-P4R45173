@@ -54,7 +54,7 @@ Check out my coding stats and contributions powered by WakaTime:
  <!--START_SECTION:waka-->
 
 ```txt
-XML   5 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
