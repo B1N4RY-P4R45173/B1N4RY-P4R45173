@@ -54,8 +54,7 @@ Check out my coding stats and contributions powered by WakaTime:
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 39 mins    ████████████████████████▓   98.23 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Python   1 hr 22 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
