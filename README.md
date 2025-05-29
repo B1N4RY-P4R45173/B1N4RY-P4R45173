@@ -22,7 +22,7 @@ Hey there! <img src="https://github.com/B1N4RY-P4R45173/B1N4RY-P4R45173/blob/mai
 
 - **Name**: Ajay Koppaka 🚀
 - **Passions**: Cybersecurity 🔒, Programming 💻, Innovation 💡
-- **Languages I Speak**: Python 🐍, C ⚙️, x86_64 Assembly 🛠️, MIPS Assembly 🧩, a bit of C++ 🌱
+- **Languages I Speak**: Python 🐍, C ⚙️, x86_64 Assembly 🛠️, MIPS Assembly 🧩, C++ 🤖 and Java 📱
 - **Hobbies**: Valorant 🎮, Chess ♟️
 
 ## My Tech Journey
