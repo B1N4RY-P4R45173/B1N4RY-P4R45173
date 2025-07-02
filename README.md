@@ -49,17 +49,6 @@ When I'm not cracking codes or writing scripts, you can find me:
 - **Playing Valorant**: Sharpening my strategic skills and reflexes. 🎮
 - **Engaging in Chess**: Thinking multiple steps ahead and honing my tactical mind. ♟️
 
-## 🔥 GitHub Stats
-Check out my coding stats and contributions powered by WakaTime:
- <!--START_SECTION:waka-->
-
-```txt
-Python   7 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-<img src="https://wakatime.com/share/@B1N4RY_P4R45173/0ac5ced5-b357-4132-95a6-5a9997c0edea.svg" height="320" width="420">
-
 ## Let's Connect!
 Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate or chat about tech! ✉️
 
