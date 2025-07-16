@@ -36,8 +36,7 @@ I love to code and solve problems using a variety of programming languages:
 - **C**: The powerful tool I use for systems programming. ⚙️
 - **x86_64 Assembly & MIPS Assembly**: My secret weapons for reverse engineering and diving deep into software internals. 🛠️🧩
 - **C++**: Dipping my toes into the world of C++ to expand my horizons. 🌱
-
-![Coding GIF](https://github.com/B1N4RY-P4R45173/B1N4RY-P4R45173/raw/main/coding.gif)
+  
 ## 📚 Research and Exploration
 I enjoy diving into research papers to stay updated with the latest advancements in cybersecurity and programming. I'm also an avid participant in Capture The Flag (CTF) competitions, where I hone my skills and learn new techniques.
 
